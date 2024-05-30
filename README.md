@@ -72,10 +72,9 @@ SIL Open Font License 1.1
 ## 周边项目 / Side Project
 **画划·计数器 / Huahua - Counter**
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/d8/fc/c1d8fcb1-aa7c-9e10-77be-c20b3d8aa844/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/540x540bb.jpg" alt="Hua Hua - Counter" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
 
 
-
+![FontAlt](Media/HuahuaLogo.png)
 
 
 
