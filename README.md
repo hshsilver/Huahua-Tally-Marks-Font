@@ -66,7 +66,9 @@ Also, please note that the character "正" here is encoded differently from the 
 
 ## 许可 / License
 
-SIL Open Font License 1.1
+🇨🇳[SIL开源字型授权1.1（英语）](https://github.com/hshsilver/Huahua-Tally-Marks-Font/blob/main/OFL.txt)
+
+🇬🇧[SIL Open Font License 1.1](https://github.com/hshsilver/Huahua-Tally-Marks-Font/blob/main/OFL.txt)
 
 
 ## 周边项目 / Side Project
