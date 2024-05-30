@@ -80,3 +80,5 @@ SIL Open Font License 1.1
 
 
 <a href="https://apps.apple.com/app/hua-hua-counter/id6503291347?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1716940800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/52ac29b5f5df5d17b0428d1b849cb602/3cc1e131137ab285f01558ec547ca7fb.png">
