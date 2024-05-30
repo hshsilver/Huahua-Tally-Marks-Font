@@ -1,6 +1,4 @@
-# Huahua画划 - 计数符号字体 / Huahua画划 - Tally Mark Font
-
-
+# Huahua画划 - 计数符号字体 / Tally Mark Font
 
 
 
@@ -18,17 +16,16 @@
 
 After installation, you could find its name and preview in Mac's Fontbook.
 
-![FontBookSilouette](/Users/heshuhao/Documents/Typora文稿/Huahua/Media/FontBookSilouette.png)
+![FontBookSilouette](Media/FontBookSilouette.png )
 
-![FontPreview](/Users/heshuhao/Documents/Typora文稿/Huahua/Media/FontPreview.png)
+![FontPreview](Media/FontPreview.png)
 
 🇨🇳在文本编辑器你能够看到这样的名字。
 
 🇬🇧In the text editors you could find names like this.
 
-![FontListName](/Users/heshuhao/Documents/Typora文稿/Huahua/Media/FontListName.png)
+![FontListName](Media/FontListName.png)
 
- 
 
 
 
@@ -50,7 +47,7 @@ Please note that only the five stages of the tally mark and the two stages of th
 
 Also, please note that the character "正" here is encoded differently from the hanzi "正" whose Unicode is 6B63.
 
-![FontUnicode](/Users/heshuhao/Documents/Typora文稿/Huahua/Media/FontUnicode.jpg) 
+![FontUnicode](Media/FontUnicode.jpg) 
 
 
 
@@ -58,7 +55,7 @@ Also, please note that the character "正" here is encoded differently from the 
 
 🇬🇧For convenience, I have used common letters and numbers to represent these 15 tally symbols.
 
-![FontAlt](/Users/heshuhao/Documents/Typora文稿/Huahua/Media/FontAlt.jpg)
+![FontAlt](Media/FontAlt.jpg)
 
 ## 许可 / License
 
