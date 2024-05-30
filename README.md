@@ -57,6 +57,26 @@ Also, please note that the character "正" here is encoded differently from the 
 
 ![FontAlt](Media/FontAlt.jpg)
 
+
+## 使用 / Usage
+
+🇨🇳PostScript名称：Huahua-Regular
+
+🇬🇧PostScript Name: Huahua-Regular
+
 ## 许可 / License
 
 SIL Open Font License 1.1
+
+
+## 周边项目 / Side Project
+**画划·计数器 / Huahua - Counter**
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/d8/fc/c1d8fcb1-aa7c-9e10-77be-c20b3d8aa844/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/540x540bb.jpg" alt="Hua Hua - Counter" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
+
+
+
+
+
+<a href="https://apps.apple.com/app/hua-hua-counter/id6503291347?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1716940800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
